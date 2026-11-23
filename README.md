@@ -1,6 +1,6 @@
 <h1 align="center">Oleksii Filippovych</h1>
 <p align="center">
-  <b>Senior Full-Stack AI SaaS Architect · Next.js · Node.js · TypeScript · AI Agents</b><br>
+  <b>Senior Full-Stack AI SaaS Architect · Next.js · Node.js · TypeScript · AI Agents · Harness</b><br>
   I architect and ship production AI-native SaaS platforms — orchestrating AI as an engineering team instead of typing every line myself.
 </p>
 

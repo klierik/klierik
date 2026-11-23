@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/oleksii-filippovych/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"></a>
   <a href="mailto:alex.filippovich@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20me-D14836?logo=gmail&logoColor=white"></a>
   <img src="https://img.shields.io/badge/Open%20to-Remote%20%7C%20Contract%20%7C%20Freelance-2ea44f">
-  <img src="https://img.shields.io/badge/Experience-15%2B%20years-blue">
+  <img src="https://img.shields.io/badge/Experience-18%2B%20years-blue">
 </p>
 
 ---

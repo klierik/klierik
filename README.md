@@ -15,7 +15,7 @@
 
 ### What I do
 
-15+ years building for the web — now a **senior architect running a mature, production-grade AI-native workflow**. I treat AI as a team of ~7 specialized Claude Code sub-agents and act as architect/supervisor: scoping, reviewing, integrating. Result: features that used to take 16 hours ship in ~1 hour, at production quality, with ~70% less operational overhead.
+18+ years building for the web — now a **senior architect running a mature, production-grade AI-native workflow**. I treat AI as a team of ~7 specialized Claude Code sub-agents and act as architect/supervisor: scoping, reviewing, integrating. Result: features that used to take 16 hours ship in ~1 hour, at production quality, with ~70% less operational overhead.
 
 I help **SaaS founders and product teams** go from idea to a shipped, fast, maintainable platform — and turn slow manual ops into automated pipelines.
 
